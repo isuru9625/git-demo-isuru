@@ -25,5 +25,9 @@ public class Main {
    private static int add(int a, int b) {
        return a + b;
    }
+   
+   private static int sub(int a, int b) {
+       return a - b;
+   }
 }
 
